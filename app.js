@@ -44,3 +44,4 @@ var xmlSubmit = null;
       xmlSubmit.open("POST", "/submit", true);
       xmlSubmit.send(para);
     }
+   get_para()
